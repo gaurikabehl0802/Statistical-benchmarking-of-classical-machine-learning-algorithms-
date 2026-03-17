@@ -56,4 +56,4 @@ This project demonstrates the principle of the No Free Lunch Theorem — no sing
 
 ## Author
 
-[Your Name]
+[Gaurika Behl]
